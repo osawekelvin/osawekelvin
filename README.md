@@ -30,7 +30,7 @@ Interactive dashboards developed to transform datasets into clear and meaningful
 
 ## 💼 Experience
 
-**Head Data Analyst — SolarGya Africa**  
+**Head Data Analyst — SolarGy Africa**  
 Conducted research on solar vendors across Nigeria and developed datasets and visualizations from research findings.
 
 **Data Analyst Tutor — DCIT Africa**  
